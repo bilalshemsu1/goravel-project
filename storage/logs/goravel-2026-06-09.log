@@ -1,0 +1,16 @@
+[2026-06-09 09:29:36.169] local.error: failed to run route: listen tcp 127.0.0.1:3000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[Trace] /Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:202 [log.(*Writer).withStackTrace:C]
+/Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:65 [log.(*Writer).Errorf:C]
+[2026-06-09 09:32:28.675] local.error: failed to run route: listen tcp 127.0.0.1:3000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[Trace] /Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:202 [log.(*Writer).withStackTrace:C]
+/Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:65 [log.(*Writer).Errorf:C]
+[2026-06-09 09:32:29.238] local.error: failed to run route: listen tcp 127.0.0.1:3000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[Trace] /Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:202 [log.(*Writer).withStackTrace:C]
+/Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:65 [log.(*Writer).Errorf:C]
+[2026-06-09 09:32:38.738] local.error: failed to run route: listen tcp 127.0.0.1:3000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+[Trace] /Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:202 [log.(*Writer).withStackTrace:C]
+/Users/Bilal/go/pkg/mod/github.com/goravel/framework@v1.17.2/log/writer.go:65 [log.(*Writer).Errorf:C]
